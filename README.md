@@ -79,3 +79,11 @@ Scratch files go to the system temp directory (`$TMPDIR`, default `/tmp`).
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+## Author
+
+**Petr Moravsky** ([petr@structuredtrading.co](mailto:petr@structuredtrading.co)) — developer.
+
+If switchyard is useful to you or served as a reference for your own gateway — [star the repo](https://github.com/moravsky/switchyard) and [leave a tip](https://ko-fi.com/moravsky).
